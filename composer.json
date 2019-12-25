@@ -1,0 +1,19 @@
+{
+    "name": "binlai/blmvcframeworktest",
+    "description": "my test pro",
+    "type": "project",
+    "require": {
+        "binlai/blmvcframework": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laibin",
+            "email": "893801115@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"frontend\\": "frontend/"}
+    }
+}

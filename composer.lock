@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "670ffaf6cb5211ba8203431a1e165714",
+    "packages": [
+        {
+            "name": "binlai/blmvcframework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/binlai/blmvcframework.git",
+                "reference": "5a3706c3fb88d113f958932247d9125ffc0b650c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/binlai/blmvcframework/zipball/5a3706c3fb88d113f958932247d9125ffc0b650c",
+                "reference": "5a3706c3fb88d113f958932247d9125ffc0b650c",
+                "shasum": ""
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "laibin",
+                    "email": "893803215@qq.com"
+                }
+            ],
+            "description": "my frist pro",
+            "keywords": [
+                "bin",
+                "blmvcframework",
+                "lai"
+            ],
+            "time": "2019-12-25T06:40:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "binlai/blmvcframework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

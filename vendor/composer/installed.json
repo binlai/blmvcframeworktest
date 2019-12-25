@@ -1,0 +1,37 @@
+[
+    {
+        "name": "binlai/blmvcframework",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/binlai/blmvcframework.git",
+            "reference": "5a3706c3fb88d113f958932247d9125ffc0b650c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/binlai/blmvcframework/zipball/5a3706c3fb88d113f958932247d9125ffc0b650c",
+            "reference": "5a3706c3fb88d113f958932247d9125ffc0b650c",
+            "shasum": ""
+        },
+        "time": "2019-12-25T06:40:31+00:00",
+        "type": "project",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "laibin",
+                "email": "893803215@qq.com"
+            }
+        ],
+        "description": "my frist pro",
+        "keywords": [
+            "bin",
+            "blmvcframework",
+            "lai"
+        ]
+    }
+]
